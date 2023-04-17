@@ -11,3 +11,4 @@ This project consist of:
 	
 	> 1 Nexton as HMI
 
+This project can be used to monitor PLTS (Solar Power Plant) that need to monitor 2 DC I/O, 1 AC I/O through Blynk (online) and HMI (offline)
